@@ -37,6 +37,9 @@ See [`power-bi/DASHBOARD_BUILD.md`](power-bi/DASHBOARD_BUILD.md) and [`power-bi/
 ## Dataset
 A compact synthetic sample is included for quick GitHub review. Run [`data/generate_data.py`](data/generate_data.py) to generate the full **10,000-row** synthetic portfolio dataset used by the analysis workflow.
 
+## Analysis Notebook
+Open [`notebooks/retail_sales_analysis.ipynb`](notebooks/retail_sales_analysis.ipynb) for an interactive Python workflow covering validation, KPI calculations, regional analysis and monthly trends.
+
 ## Repository Structure
 ```text
 retail-sales-data-analysis/
@@ -45,6 +48,7 @@ retail-sales-data-analysis/
 │   ├── generate_data.py
 │   ├── DATASET_NOTE.md
 │   └── DATA_DICTIONARY.md
+├── notebooks/retail_sales_analysis.ipynb
 ├── sql/analysis_queries.sql
 ├── python/retail_analysis.py
 ├── power-bi/
