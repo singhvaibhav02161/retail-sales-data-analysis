@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit
+ORD100001,2025-02-02,North,Furniture,Tablet,1,40,0.0,40.0,8.69
+ORD100002,2025-10-10,West,Furniture,Headphones,7,90,0.0,630.0,145.6
+ORD100003,2025-08-27,West,Accessories,Keyboard,4,300,0.0,1200.0,170.5
+ORD100004,2025-06-10,North,Electronics,Webcam,7,120,0.1,756.0,84.97
+ORD100005,2025-06-08,North,Electronics,Webcam,3,55,0.05,156.75,19.43
+ORD100006,2025-11-10,East,Furniture,Laptop,6,900,0.15,4590.0,727.26
+ORD100007,2025-02-01,West,Home Appliances,Laptop,3,55,0.15,140.25,28.94
+ORD100008,2025-09-12,West,Accessories,Keyboard,4,40,0.0,160.0,18.81
+ORD100009,2025-03-15,West,Office Supplies,Router,3,90,0.1,243.0,57.9
+ORD100010,2025-02-04,South,Office Supplies,Phone,4,40,0.0,160.0,20.76
+ORD100011,2025-07-12,North,Accessories,Chair,2,200,0.0,400.0,96.77
+ORD100012,2025-12-23,East,Electronics,Printer,4,120,0.0,480.0,127.11
+ORD100013,2025-09-26,North,Accessories,Desk,6,900,0.0,5400.0,609.29
+ORD100014,2025-10-05,West,Furniture,Phone,2,55,0.1,99.0,26.09
+ORD100015,2025-09-19,North,Furniture,Laptop,6,75,0.1,405.0,89.53
+ORD100016,2025-10-14,South,Accessories,Phone,6,300,0.1,1620.0,417.05
+ORD100017,2025-07-07,East,Home Appliances,Keyboard,1,300,0.05,285.0,42.57
+ORD100018,2025-02-16,East,Office Supplies,Router,5,90,0.1,405.0,102.36
+ORD100019,2025-11-03,West,Furniture,Keyboard,4,900,0.1,3240.0,568.15
+ORD100020,2025-06-14,East,Office Supplies,Laptop,5,650,0.15,2762.5,325.79
