@@ -1,0 +1,1 @@
+This repository includes a compact synthetic sample dataset for GitHub portfolio demonstration. The project workflow, SQL, Python analysis and Power BI measures are included so the repository can be reviewed and extended with the full dataset when needed.
