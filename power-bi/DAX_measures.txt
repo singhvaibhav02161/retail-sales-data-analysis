@@ -1,0 +1,5 @@
+Total Revenue = SUM(retail_sales[Sales])
+Total Profit = SUM(retail_sales[Profit])
+Total Orders = DISTINCTCOUNT(retail_sales[Order_ID])
+Average Order Value = DIVIDE([Total Revenue], [Total Orders])
+Profit Margin = DIVIDE([Total Profit], [Total Revenue])
